@@ -7,17 +7,17 @@ A opensource Discord Tourney bot for all AI lovers. No more paywalls to AI. Enjo
 #
 
 ## Invite Openjourney Bot => <a href="https://cdn.discordapp.com/avatars/1102113821142818827/4be16a84baac435d5d5832ed0c73a1ff.webp?size=1024" target="_blank">Click Here</a>
-<a href="https://cdn.discordapp.com/avatars/1102113821142818827/4be16a84baac435d5d5832ed0c73a1ff.webp?size=1024" target="_blank"><img src="https://i.imgur.com/fCFHO4h.png" title="openjourney" /></a>
+<a href="https://cdn.discordapp.com/avatars/1102113821142818827/4be16a84baac435d5d5832ed0c73a1ff.webp?size=1024" target="_blank"><img src="https://cdn.discordapp.com/avatars/1102113821142818827/4be16a84baac435d5d5832ed0c73a1ff.webp?size=1024" title="Tourney" /></a>
 #
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.paypal.com/donate/?hosted_button_id=HST85WYZM5VS2" target="_blank"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="sandarudev" /></a>
+<p><a href="https://www.paypal.com/donate/?hosted_button_id=HST85WYZM5VS2" target="_blank"> <img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="50" width="210" alt="TheRealJethru" /></a>
 </p>
 
 #
 
 ## Discord Server
-<a href="https://dsc.gg/reedroux-dev"><img src="https://discord.com/api/guilds/886462690153857054/widget.png?style=banner2"></a><br>
+<a href="https://dsc.gg/reedroux-dev"><img src=""></a><br>
 ⚠️ <b>We do not provide code support in our server due to multiple reasons. Edit at your own risk!</b>
 
 ## Installation
@@ -72,4 +72,3 @@ You must keep the credits and must mention this repository or links to code auth
 Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
 
 <h6 align="center">©️ Dynamics Project</h6>
-
