@@ -24,10 +24,10 @@ A opensource Discord Tourney bot for all AI lovers. No more paywalls to AI. Enjo
 Clone the repository
 
 ```sh
-git clone https://github.com/sandarutharuneth/midjourney-bot
+git clone https://github.com/dynamics-project/tourney-bot
 ```
 
-Fill your Token and other dependencies at [config.json](https://github.com/sandarutharuneth/midjourney-bot/blob/master/src/config/config.json)
+Fill your Token and other dependencies at [config.json](https://github.com/dynamics-project/tourney-bot/blob/master/src/config/config.json)
 ```json
 {
     "TOKEN": "YOUR TOKEN",
@@ -72,3 +72,4 @@ You must keep the credits and must mention this repository or links to code auth
 Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
 
 <h6 align="center">©️ Dynamics Project</h6>
+
